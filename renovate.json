@@ -1,1 +1,7 @@
-{}
+{
+  "nuget": {
+    "managerFilePatterns": [
+      "/^build\\.cs$/"
+    ]
+  }
+}
