@@ -1,5 +1,5 @@
 #:sdk Microsoft.NET.Sdk.Web
-#:package Humanizer@2.13.14
+#:package Humanizer@2.14.1
 
 using Humanizer;
 var since = TimeSpan.FromMinutes(5);
